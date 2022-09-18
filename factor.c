@@ -25,5 +25,5 @@ int main(int argc, char *argv[])
 	{
 		factorize(buffer);
 	}
-  return (0);
+	return (0);
 }
