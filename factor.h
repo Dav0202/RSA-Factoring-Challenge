@@ -7,5 +7,4 @@
 #define _GNU_SOURCE
 
 int factorize(char *buffer);
-
 #endif
